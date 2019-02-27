@@ -1,0 +1,1601 @@
+{
+  "type": "normal",
+  "size": "38mm",
+  "feedback": "true",
+  "trials": [
+    {
+      "targetPhrase": "there will be some fog tonight",
+      "inputPhrase": "there will be some fog tonight",
+      "inputs": [
+        {
+          "input": "t",
+          "timestamp": 1550193137219
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193137622
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193138294
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193138481
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193138715
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193139466
+        },
+        {
+          "input": "w",
+          "timestamp": 1550193140493
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193141256
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193141528
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193141734
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193142796
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193143156
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193143855
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193144038
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193145040
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193145603
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193146703
+        },
+        {
+          "input": "b",
+          "timestamp": 1550193147425
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193147653
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193148630
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193149943
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193150646
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193150876
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193151172
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193151806
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193152421
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193153198
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193153490
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193154309
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193155339
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193156081
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193156389
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193156592
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193156785
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193156968
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193157097
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193157446
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193157818
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193158125
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193158392
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193158747
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193159127
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193159430
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193159839
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193160523
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193160943
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193161132
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193161493
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193162934
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193163604
+        }
+      ]
+    },
+    {
+      "targetPhrase": "my favorite subject is psychology",
+      "inputPhrase": "my favourite subject is psycology",
+      "inputs": [
+        {
+          "input": "m",
+          "timestamp": 1550193166704
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193166989
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193167680
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193168392
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193168634
+        },
+        {
+          "input": "v",
+          "timestamp": 1550193169319
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193170063
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193170314
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193170526
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193171446
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193172101
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193172648
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193173411
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193173580
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193174239
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193174688
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193175366
+        },
+        {
+          "input": "b",
+          "timestamp": 1550193175781
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193176100
+        },
+        {
+          "input": "w",
+          "timestamp": 1550193176371
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193176559
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193177076
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193177383
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193177635
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193177910
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193178213
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193178545
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193179087
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193179496
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193180297
+        },
+        {
+          "input": "j",
+          "timestamp": 1550193180927
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193181598
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193181975
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193182187
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193183391
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193183722
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193184500
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193185054
+        },
+        {
+          "input": "p",
+          "timestamp": 1550193185757
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193186321
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193186855
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193187482
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193188045
+        },
+        {
+          "input": ".",
+          "timestamp": 1550193188279
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193188444
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193189197
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193189515
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193190083
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193190253
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193190500
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193190954
+        },
+        {
+          "input": "b",
+          "timestamp": 1550193191293
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193191918
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193192283
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193192869
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193193903
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193194394
+        }
+      ]
+    },
+    {
+      "targetPhrase": "for your information only",
+      "inputPhrase": "for your information only",
+      "inputs": [
+        {
+          "input": "f",
+          "timestamp": 1550193196438
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193196988
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193197402
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193197867
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193198400
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193198926
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193199325
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193199648
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193200219
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193200653
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193201372
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193201889
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193202696
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193203252
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193203603
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193204172
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193205069
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193205627
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193205933
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193206520
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193207249
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193207952
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193209376
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193209915
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193210372
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193211101
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193211764
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193212659
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193213394
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193214054
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193214664
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193215145
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193215394
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193216195
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193216696
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193217389
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193217612
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193217848
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193218081
+        }
+      ]
+    },
+    {
+      "targetPhrase": "do not say anything",
+      "inputPhrase": "do not say anything",
+      "inputs": [
+        {
+          "input": "d",
+          "timestamp": 1550193221481
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193221909
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193222681
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193223148
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193223530
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193224274
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193224845
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193225681
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193225876
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193226576
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193227183
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193227859
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193228581
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193228911
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193229542
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193229827
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193230456
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193230779
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193231009
+        }
+      ]
+    },
+    {
+      "targetPhrase": "would you like to come to my house",
+      "inputPhrase": "would you like to come to my house",
+      "inputs": [
+        {
+          "input": "s",
+          "timestamp": 1550193233421
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193234643
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193235214
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193235603
+        },
+        {
+          "input": "w",
+          "timestamp": 1550193236236
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193237034
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193237380
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193238008
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193239001
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193240327
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193240940
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193241187
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193241401
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193242341
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193242800
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193243237
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193243781
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193243989
+        },
+        {
+          "input": "k",
+          "timestamp": 1550193244172
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193244733
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193245455
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193245746
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193246361
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193247038
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193248383
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193248954
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193249318
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193249972
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193250833
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193251479
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193252282
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193253086
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193253865
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193254544
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193255209
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193255584
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193255989
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193256733
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193257259
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193257647
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193258242
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193258577
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193259329
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193259653
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193260421
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193261141
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193261929
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193262103
+        }
+      ]
+    },
+    {
+      "targetPhrase": "please take a bath this month",
+      "inputPhrase": "please take a bath this month",
+      "inputs": [
+        {
+          "input": "p",
+          "timestamp": 1550193264792
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193265045
+        },
+        {
+          "input": "w",
+          "timestamp": 1550193266064
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193266228
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193266444
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193266600
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193267212
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193267538
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193267845
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193268316
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193268642
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193269062
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193269657
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193270070
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193270736
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193270935
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193271662
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193272343
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193272578
+        },
+        {
+          "input": "k",
+          "timestamp": 1550193273288
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193273834
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193274456
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193275012
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193275757
+        },
+        {
+          "input": "v",
+          "timestamp": 1550193276390
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193277440
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193278071
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193279240
+        },
+        {
+          "input": "b",
+          "timestamp": 1550193279999
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193280828
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193281259
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193281486
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193282096
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193282366
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193282883
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193283275
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193284011
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193284388
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193284740
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193285370
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193286116
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193286624
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193287375
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193287597
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193287808
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193288618
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193288752
+        }
+      ]
+    },
+    {
+      "targetPhrase": "I like to play tennis",
+      "inputPhrase": "i like to play tennis",
+      "inputs": [
+        {
+          "input": "k",
+          "timestamp": 1550193291814
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193292316
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193292851
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193293181
+        },
+        {
+          "input": "f",
+          "timestamp": 1550193293473
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193293936
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193294407
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193294721
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193295220
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193295581
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193296239
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193296704
+        },
+        {
+          "input": ",",
+          "timestamp": 1550193297483
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193297692
+        },
+        {
+          "input": "k",
+          "timestamp": 1550193297874
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193298319
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193298640
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193299142
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193299519
+        },
+        {
+          "input": "j",
+          "timestamp": 1550193299989
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193300841
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193301307
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193301992
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193302580
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193303344
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193303947
+        },
+        {
+          "input": "k",
+          "timestamp": 1550193304357
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193305274
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193305919
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193306586
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193307262
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193307704
+        },
+        {
+          "input": "p",
+          "timestamp": 1550193308358
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193308550
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193309219
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193309617
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193310363
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193310662
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193310894
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193311481
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193311824
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193312315
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193312685
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193313678
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193313862
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193314087
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193314787
+        }
+      ]
+    },
+    {
+      "targetPhrase": "be discreet about your meeting",
+      "inputPhrase": "be discreet about your meeting",
+      "inputs": [
+        {
+          "input": "b",
+          "timestamp": 1550193316726
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193317208
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193317985
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193318246
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193318972
+        },
+        {
+          "input": "s",
+          "timestamp": 1550193319726
+        },
+        {
+          "input": "c",
+          "timestamp": 1550193319925
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193320654
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193321111
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193321261
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193321988
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193322707
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193323249
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193324019
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193324580
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193325361
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193325684
+        },
+        {
+          "input": "b",
+          "timestamp": 1550193326404
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193327183
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193327466
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193327714
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193328558
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193328895
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193329148
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193329768
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193330772
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193331419
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193332039
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193333017
+        },
+        {
+          "input": "m",
+          "timestamp": 1550193333646
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193334393
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193334719
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193335405
+        },
+        {
+          "input": "j",
+          "timestamp": 1550193335929
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193336273
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193336418
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193337011
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193337376
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193337825
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193338249
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193338848
+        },
+        {
+          "input": "i",
+          "timestamp": 1550193339565
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193340366
+        },
+        {
+          "input": "g",
+          "timestamp": 1550193341207
+        }
+      ]
+    },
+    {
+      "targetPhrase": "I want to hold your hand",
+      "inputPhrase": "i want to hold your hand",
+      "inputs": [
+        {
+          "input": "i",
+          "timestamp": 1550193344322
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193344967
+        },
+        {
+          "input": "w",
+          "timestamp": 1550193345311
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193345483
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193346159
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193346388
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193347006
+        },
+        {
+          "input": "t",
+          "timestamp": 1550193347253
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193347910
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193348614
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193348880
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193349402
+        },
+        {
+          "input": "l",
+          "timestamp": 1550193349611
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193350289
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193350827
+        },
+        {
+          "input": "y",
+          "timestamp": 1550193351515
+        },
+        {
+          "input": "o",
+          "timestamp": 1550193352045
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193352592
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193352921
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193353795
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193354267
+        },
+        {
+          "input": "u",
+          "timestamp": 1550193354849
+        },
+        {
+          "input": "e",
+          "timestamp": 1550193355272
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193356265
+        },
+        {
+          "input": "r",
+          "timestamp": 1550193356845
+        },
+        {
+          "input": " ",
+          "timestamp": 1550193357831
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193358436
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193359034
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193359746
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550193360198
+        },
+        {
+          "input": "h",
+          "timestamp": 1550193360907
+        },
+        {
+          "input": "a",
+          "timestamp": 1550193361594
+        },
+        {
+          "input": "n",
+          "timestamp": 1550193362240
+        },
+        {
+          "input": "d",
+          "timestamp": 1550193363003
+        }
+      ]
+    }
+  ]
+}

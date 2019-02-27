@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Key Strokes Per Character
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3         0.159         0.053    
+Input method                   1         0.519         0.519    51.388    0.0056
+Input method_x_Par             3         0.030         0.010    
+Visual feedback                1         0.003         0.003     0.311    0.6162
+Visual feedback_x_Par          3         0.030         0.010    
+Input method_x_Visual feedba   1         0.014         0.014     1.402    0.3217
+Input method_x_Visual feedba   3         0.030         0.010    
+=================================================================================
+Data_file: anova-key-strokes-per-character.txt
+
+Summary statements:
+The effect of input method on key strokes per character was statistically significant (F(1, 3) = 51.388, p < .01).
+The effect of visual feedback on key strokes per character was not statistically significant (F(1, 3) = 0.311, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 1.402, p > .05).

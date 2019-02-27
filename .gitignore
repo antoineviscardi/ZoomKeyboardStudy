@@ -1,0 +1,9 @@
+.pylintrc
+.vscode
+
+a2.pdf
+consent-participant-*.png
+study_protocol_and_consent_form_templates.odt
+journal.md
+/node_modules
+/build

@@ -1,0 +1,1105 @@
+{
+  "type": "zoom",
+  "size": "38mm",
+  "feedback": "true",
+  "trials": [
+    {
+      "targetPhrase": "people blow their horn a lot",
+      "inputPhrase": "people blow their horn a lot",
+      "inputs": [
+        {
+          "input": "p",
+          "timestamp": 1550600019277
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600021095
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600023529
+        },
+        {
+          "input": "p",
+          "timestamp": 1550600024929
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600026276
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600027791
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600030617
+        },
+        {
+          "input": "b",
+          "timestamp": 1550600032262
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600033636
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600034901
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600036636
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600038687
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600040184
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600041536
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600043118
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600044428
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600046030
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600047566
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600049007
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600050254
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600051585
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600053155
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600054759
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600056764
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600059192
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600060536
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600061888
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600063225
+        }
+      ]
+    },
+    {
+      "targetPhrase": "only an idiot would lie in court",
+      "inputPhrase": "only an idiot would lie in court",
+      "inputs": [
+        {
+          "input": "o",
+          "timestamp": 1550600066757
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600068059
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600069329
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600070701
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600072110
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600073514
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600074874
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600076342
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600077686
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600078910
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600080196
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550600082793
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550600083858
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600086412
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600088942
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600090184
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600091689
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600093241
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600095284
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600096719
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600098026
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600099378
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600101082
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600102918
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600104561
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600105764
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600107079
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600108557
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600110416
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600111774
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600113608
+        },
+        {
+          "input": "c",
+          "timestamp": 1550600114997
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600116274
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550600118805
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600120277
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600121625
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600122968
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600124253
+        }
+      ]
+    },
+    {
+      "targetPhrase": "the fourth edition was better",
+      "inputPhrase": "the fourth edition was better ",
+      "inputs": [
+        {
+          "input": "t",
+          "timestamp": 1550600129742
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600130918
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600132209
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600133713
+        },
+        {
+          "input": "f",
+          "timestamp": 1550600135104
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600136575
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600137766
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600139138
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600140349
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600141654
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600143972
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600145279
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600146553
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600147908
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600149397
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600150774
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600152077
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600153451
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600154939
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600156611
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600157884
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600159109
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600160498
+        },
+        {
+          "input": "b",
+          "timestamp": 1550600161871
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600163213
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600164603
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600165913
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600167153
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600168358
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600170145
+        }
+      ]
+    },
+    {
+      "targetPhrase": "what a lovely red jacket",
+      "inputPhrase": "what a lovely red jacket",
+      "inputs": [
+        {
+          "input": "w",
+          "timestamp": 1550600173656
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600175113
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600176305
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600177589
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600178862
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600180470
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600182505
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600183943
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600185101
+        },
+        {
+          "input": "v",
+          "timestamp": 1550600186508
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600187762
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600189175
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600190977
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600192956
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600194560
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600195918
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600197522
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600199409
+        },
+        {
+          "input": "j",
+          "timestamp": 1550600200807
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600202158
+        },
+        {
+          "input": "c",
+          "timestamp": 1550600203612
+        },
+        {
+          "input": "k",
+          "timestamp": 1550600204884
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600206456
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600207854
+        }
+      ]
+    },
+    {
+      "targetPhrase": "a thoroughly disgusting thing to say",
+      "inputPhrase": "a thouroughly disgusting thing to say",
+      "inputs": [
+        {
+          "input": "a",
+          "timestamp": 1550600213516
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600214858
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600217394
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600218712
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600219802
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600221142
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600223285
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600224485
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600226058
+        },
+        {
+          "input": "g",
+          "timestamp": 1550600227714
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600228941
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600230201
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600231572
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600233527
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600237109
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600238420
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600239903
+        },
+        {
+          "input": "g",
+          "timestamp": 1550600241195
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600242405
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600243626
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600245429
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600246778
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600248031
+        },
+        {
+          "input": "g",
+          "timestamp": 1550600249453
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600253536
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600254771
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600256082
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600257423
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600258730
+        },
+        {
+          "input": "g",
+          "timestamp": 1550600259989
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600261893
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600263518
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600265290
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600266754
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600268186
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600269356
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600270617
+        }
+      ]
+    },
+    {
+      "targetPhrase": "sad to hear that news",
+      "inputPhrase": "sad to hear that news",
+      "inputs": [
+        {
+          "input": "s",
+          "timestamp": 1550600275280
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600276503
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600277907
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600279257
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600280688
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600281882
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600283236
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600285469
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600286665
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600288496
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600289722
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600290864
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600292438
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600293762
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600295685
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600297008
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600298377
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600299750
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600300928
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600302172
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600303331
+        }
+      ]
+    },
+    {
+      "targetPhrase": "learn to walk before you run",
+      "inputPhrase": "learn to walk before you run",
+      "inputs": [
+        {
+          "input": "l",
+          "timestamp": 1550600307306
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600308670
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600309877
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600311102
+        },
+        {
+          "input": "delete",
+          "timestamp": 1550600312957
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600314412
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600315828
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600317639
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600318895
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600320124
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600322239
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600324010
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600325187
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600326428
+        },
+        {
+          "input": "k",
+          "timestamp": 1550600327658
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600329196
+        },
+        {
+          "input": "b",
+          "timestamp": 1550600330547
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600331765
+        },
+        {
+          "input": "f",
+          "timestamp": 1550600333032
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600334203
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600335502
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600336836
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600338194
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600339566
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600340692
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600341934
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600343340
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600344619
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600345821
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600347068
+        }
+      ]
+    },
+    {
+      "targetPhrase": "we dine out on the weekends",
+      "inputPhrase": "we dine out on the weekends",
+      "inputs": [
+        {
+          "input": "w",
+          "timestamp": 1550600352609
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600353831
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600355141
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600356420
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600357543
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600358899
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600360039
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600361464
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600362604
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600363804
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600365018
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600366574
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600367897
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600369176
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600370308
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600371853
+        },
+        {
+          "input": "h",
+          "timestamp": 1550600373016
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600374271
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600375548
+        },
+        {
+          "input": "w",
+          "timestamp": 1550600377133
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600378228
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600379269
+        },
+        {
+          "input": "k",
+          "timestamp": 1550600380659
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600382086
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600383508
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600384701
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600385814
+        }
+      ]
+    },
+    {
+      "targetPhrase": "frequently asked questions",
+      "inputPhrase": "frequently asked questions",
+      "inputs": [
+        {
+          "input": "f",
+          "timestamp": 1550600394199
+        },
+        {
+          "input": "r",
+          "timestamp": 1550600395117
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600396215
+        },
+        {
+          "input": "q",
+          "timestamp": 1550600397666
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600398979
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600400153
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600401390
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600402583
+        },
+        {
+          "input": "l",
+          "timestamp": 1550600404075
+        },
+        {
+          "input": "y",
+          "timestamp": 1550600405312
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600406607
+        },
+        {
+          "input": "a",
+          "timestamp": 1550600407818
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600409002
+        },
+        {
+          "input": "k",
+          "timestamp": 1550600410244
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600411468
+        },
+        {
+          "input": "d",
+          "timestamp": 1550600412567
+        },
+        {
+          "input": " ",
+          "timestamp": 1550600413771
+        },
+        {
+          "input": "q",
+          "timestamp": 1550600415411
+        },
+        {
+          "input": "u",
+          "timestamp": 1550600416684
+        },
+        {
+          "input": "e",
+          "timestamp": 1550600417942
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600419184
+        },
+        {
+          "input": "t",
+          "timestamp": 1550600420638
+        },
+        {
+          "input": "i",
+          "timestamp": 1550600421762
+        },
+        {
+          "input": "o",
+          "timestamp": 1550600422976
+        },
+        {
+          "input": "n",
+          "timestamp": 1550600424727
+        },
+        {
+          "input": "s",
+          "timestamp": 1550600426054
+        }
+      ]
+    }
+  ]
+}

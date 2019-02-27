@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Total Error Rate
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3         0.019         0.006    
+Input method                   1         0.067         0.067    74.886    0.0032
+Input method_x_Par             3         0.003         0.001    
+Visual feedback                1         0.000         0.000     0.064    0.8163
+Visual feedback_x_Par          3         0.003         0.001    
+Input method_x_Visual feedba   1         0.001         0.001     1.360    0.3278
+Input method_x_Visual feedba   3         0.003         0.001    
+=================================================================================
+Data_file: anova-total-error-rate.txt
+
+Summary statements:
+The effect of input method on total error rate was statistically significant (F(1, 3) = 74.886, p < .005).
+The effect of visual feedback on total error rate was not statistically significant (F(1, 3) = 0.064, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 1.360, p > .05).
