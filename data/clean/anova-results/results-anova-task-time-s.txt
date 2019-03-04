@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Task Completion Time (s)
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3      2045.827       681.942    
+Input method                   1       562.297       562.297   163.927    0.0010
+Input method_x_Par             3        10.291         3.430    
+Visual feedback                1         4.122         4.122     0.175    0.7038
+Visual feedback_x_Par          3        70.656        23.552    
+Input method_x_Visual feedba   1        62.965        62.965     0.756    0.4486
+Input method_x_Visual feedba   3       249.950        83.317    
+=================================================================================
+Data_file: anova-task-time-s.txt
+
+Summary statements:
+The effect of input method on task completion time was statistically significant (F(1, 3) = 163.927, p < .005).
+The effect of visual feedback on task completion time was not statistically significant (F(1, 3) = 0.175, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 0.756, ns).

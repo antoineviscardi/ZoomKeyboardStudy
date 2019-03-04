@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Average time (ms)
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3   1116088.820    372029.607    
+Input method                   1   1516016.872   1516016.872   112.036    0.0018
+Input method_x_Par             3     40594.588     13531.529    
+Visual feedback                1       113.873       113.873     0.014    0.9133
+Visual feedback_x_Par          3     24422.411      8140.804    
+Input method_x_Visual feedba   1     76784.245     76784.245     1.079    0.3752
+Input method_x_Visual feedba   3    213428.237     71142.746    
+=================================================================================
+Data_file: anova-avg-time-ms.txt
+
+Summary statements:
+The effect of input method on average time was statistically significant (F(1, 3) = 112.036, p < .005).
+The effect of visual feedback on average time was not statistically significant (F(1, 3) = 0.014, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 1.079, p > .05).

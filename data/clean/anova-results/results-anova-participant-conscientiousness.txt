@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Participant Conscientiousness
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3         0.001         0.000    
+Input method                   1         0.003         0.003    31.221    0.0113
+Input method_x_Par             3         0.000         0.000    
+Visual feedback                1         0.001         0.001     0.483    0.5371
+Visual feedback_x_Par          3         0.005         0.002    
+Input method_x_Visual feedba   1         0.001         0.001     2.372    0.2212
+Input method_x_Visual feedba   3         0.001         0.000    
+=================================================================================
+Data_file: anova-participant-conscientiousness.txt
+
+Summary statements:
+The effect of input method on participant conscientiousness was statistically significant (F(1, 3) = 31.221, p < .05).
+The effect of visual feedback on participant conscientiousness was not statistically significant (F(1, 3) = 0.483, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 2.372, p > .05).

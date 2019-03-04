@@ -50,6 +50,10 @@ def test_compute_taxonomy_values():
 def compute_average_time(stream):
     deltas = [a - b for (a, b) in zip(stream[1:], stream[:-1])]
     return round(sum(deltas) / len(deltas))
+
+
+def compute_task_completion_time(stream):
+    return (stream[-1] - stream[0]) // 1000
     
 
 if __name__ == '__main__':
@@ -60,8 +64,8 @@ if __name__ == '__main__':
     # Open the output file
     output_path = 'data/clean/clean-data.csv'
     output_file = open(output_path, 'w')
-    fields = ['uid', 'participant', 'type', 'feedback', 
-            'trial', 'avg_time(ms)', 'INF', 'C', 'F', 'IF']
+    fields = ['uid', 'participant', 'type', 'feedback', 'trial', 
+              'avg_time(ms)', 'task_time(s)', 'INF', 'C', 'F', 'IF']
     writer = csv.DictWriter(output_file, fields, lineterminator='\n')
     writer.writeheader()
 
@@ -88,6 +92,7 @@ if __name__ == '__main__':
             
             timestamp_stream = [x['timestamp'] for x in trial['inputs']]
             avg_time = compute_average_time(timestamp_stream)
+            task_time = compute_task_completion_time(timestamp_stream)
             
             # Write results to file
             results = [
@@ -97,6 +102,7 @@ if __name__ == '__main__':
                 feedback, 
                 i+1, 
                 avg_time, 
+                task_time,
                 inf, 
                 c, 
                 f, 
@@ -107,3 +113,5 @@ if __name__ == '__main__':
             
     # Close the output file
     output_file.close()
+
+

@@ -1,0 +1,19 @@
+
+ANOVA_table_for_Utilized Bandwidth
+=================================================================================
+Effect                        df        SS            MS         F        p      
+---------------------------------------------------------------------------------
+Participant                    3         0.040         0.013    
+Input method                   1         0.163         0.163   123.656    0.0016
+Input method_x_Par             3         0.004         0.001    
+Visual feedback                1         0.000         0.000     0.038    0.8577
+Visual feedback_x_Par          3         0.006         0.002    
+Input method_x_Visual feedba   1         0.003         0.003     1.818    0.2703
+Input method_x_Visual feedba   3         0.005         0.002    
+=================================================================================
+Data_file: anova-utilized-bandwidth.txt
+
+Summary statements:
+The effect of input method on utilized bandwidth was statistically significant (F(1, 3) = 123.656, p < .005).
+The effect of visual feedback on utilized bandwidth was not statistically significant (F(1, 3) = 0.038, ns).
+The input method_x_visual feedback interaction effect was not statistically significant (F(1, 3) = 1.818, p > .05).
